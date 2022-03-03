@@ -1,7 +1,5 @@
 # SpaceGame
-__________________________________
-
-MiniGame with motion capture. 
+### MiniGame with motion capture. 
 
 A single player shooting minigame wich use ML to track hand position through a webcam and uses for gamecontrol.
 
